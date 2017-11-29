@@ -1,0 +1,27 @@
+{
+  "name": "aws-s3-notification-svls",
+  "version": "1.0.0",
+  "description": "aws service for S3 with notification on create new object",
+  "main": "submit-img.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-santiago/aws-s3-notification-svls.git"
+  },
+  "keywords": [
+    "aws",
+    "S3",
+    "serverless"
+  ],
+  "author": "Alexandre Santiago da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-santiago/aws-s3-notification-svls/issues"
+  },
+  "homepage": "https://github.com/alex-santiago/aws-s3-notification-svls#readme",
+  "dependencies": {
+    "twilio": "^3.10.0"
+  }
+}
