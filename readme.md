@@ -1,6 +1,6 @@
 # Notification service to AWS S3 file upload
 
-A node.js fucntion that sends an sms message using (Twilio)[www.twilio.com] when a .png image file is uploaded to an AWS S3 bucket. 
+A node.js fucntion that sends an sms message using [Twilio)(www.twilio.com) when a .png image file is uploaded to an AWS S3 bucket. 
 
 ## Instalation
 
